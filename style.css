@@ -3,12 +3,15 @@ body {
 	background: #EDF3F3;
 }
 .container-content{
-	padding-left: 5%;
-	padding-right: 5%;
+	padding-left: 2%;
+	padding-right: 2%;
 }
 .panel{
 	background-color: #D6E8DE;
   
+}
+.container img{
+  max-width: 100%;
 }
 .panel-body{
   width: 100%;
