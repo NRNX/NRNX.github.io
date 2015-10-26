@@ -10,6 +10,12 @@ body {
 	background-color: #D6E8DE;
   
 }
+.panel-body{
+  width: 100%;
+}
+.panel-body img{
+  width: 100%;
+}
 
 .navbar{
 	background-color: #515961;
